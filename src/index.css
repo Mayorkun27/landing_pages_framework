@@ -2,9 +2,9 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #154a22;
-  --color-secondary: #f4f6f1;
-  --color-tetiary: #e6fff6;
+  --color-primary: _;
+  --color-secondary: _;
+  --color-tetiary: _;
 }
 
 * {
@@ -37,8 +37,4 @@ input[type="number"] {
 :disabled {
   opacity: 0.6;
   cursor: not-allowed;
-}
-
-.action-btn {
-  background: linear-gradient(100.65deg, #2f5318 7.92%, #69b935 265.65%);
 }
