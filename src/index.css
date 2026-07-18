@@ -13,7 +13,7 @@
 }
 
 .mContainer {
-  @apply md:w-[80%] w-full mx-auto;
+  @apply md:w-[95%] w-full mx-auto;
 }
 
 .no-scrollbar::-webkit-scrollbar {
