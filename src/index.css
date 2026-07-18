@@ -12,6 +12,10 @@
   font-optical-sizing: auto;
 }
 
+.mContainer {
+  @apply md:w-[80%] w-full mx-auto;
+}
+
 .no-scrollbar::-webkit-scrollbar {
   @apply hidden;
 }
