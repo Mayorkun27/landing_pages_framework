@@ -47,7 +47,7 @@ const Navbar: React.FC = () => {
             <Link to="/" className="flex items-center">
               <img
                 src={assets.logo}
-                alt="Go4bill"
+                alt="Logo"
                 className="h-8 w-auto"
               />
             </Link>

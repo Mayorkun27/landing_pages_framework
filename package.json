@@ -1,5 +1,5 @@
 {
-  "name": "landing_page_framework",
+  "name": "landing_pages_framework",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,7 +16,6 @@
     "@tanstack/react-query": "^5.100.10",
     "@tanstack/react-query-devtools": "^5.100.10",
     "axios": "^1.13.2",
-    "dotenv": "^17.2.3",
     "formik": "^2.4.9",
     "framer-motion": "^12.23.26",
     "react": "^19.2.0",
